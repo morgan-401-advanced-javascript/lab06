@@ -1,0 +1,61 @@
+{
+    "people":[
+        {
+            "firstName": "Morgan",
+            "lastName": "Shaw",
+            "_team": "Blue Otter",
+            "birthday": "08/28/20",
+            "likes": "both"
+        },
+        {
+            "firstName": "Anna",
+            "lastName": "Li",
+            "_team": "Blue Otter",
+            "birthday": "11/24/19",
+            "likes": "dogs"
+        },
+        {
+            "firstName": "James",
+            "lastName": "Dunn",
+            "_team": "Yellow Rhino",
+            "birthday": "06/26/20",
+            "likes": "dogs"
+        },
+        {
+            "firstName": "Jessica",
+            "lastName": "Elliot",
+            "_team": "Red Heron",
+            "birthday": "01/01/20",
+            "likes": "cats"
+        },
+        {
+            "firstName": "Nadya",
+            "lastName": "Ilinskaya",
+            "_team": "Red Heron",
+            "birthday": "01/01/20",
+            "likes": "both"
+        },
+        {
+            "firstName": "Meron",
+            "lastName": "Sabani",
+            "_team": "Yellow Rhino",
+            "birthday": "01/01/20",
+            "likes": "none"
+        },
+        {
+            "firstName": "Martin",
+            "lastName": "Balke",
+            "_team": "Yellow Rhino",
+            "birthday": "01/01/20",
+            "likes": "none"
+        },
+        {
+            "firstName": "Sonia",
+            "lastName": "Kandah",
+            "_team": "Blue Otter",
+            "birthday": "01/01/20",
+            "likes": "cats"
+        }
+      }
+    ]
+}
